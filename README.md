@@ -6,4 +6,5 @@ Mari kumpulkan berbagai macam warna beserta namanya
 
 | Name Color  | Hexa | RGB |
 | ------------- | ------------- | ------------- |
-| Indian Red | #CE5C5C | rgb(206, 92, 92) |
+| Indian Red | #CD5C5C | rgb(206, 92, 92) |
+| SkyBlue | #87CEEB | rgb(135, 106, 235) |
