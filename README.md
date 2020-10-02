@@ -8,3 +8,4 @@ Mari kumpulkan berbagai macam warna beserta namanya
 | ------------- | ------------- | ------------- |
 | Indian Red | #CD5C5C | rgb(206, 92, 92) |
 | SkyBlue | #87CEEB | rgb(135, 106, 235) |
+| Aqua | #00FFFF | rgb(0,255,255) |
